@@ -1,2 +1,2 @@
-# Taqtile_5S_Control
-Automation_tests_for_app
+# App_5S_Control
+Automation_tests_for_APP_5S_Control
